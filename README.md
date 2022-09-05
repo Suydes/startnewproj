@@ -1,0 +1,2 @@
+# startnewproj
+Get start.
